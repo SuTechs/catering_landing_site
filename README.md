@@ -1,6 +1,6 @@
 # Shankar Maharaj Catering 👨‍🍳
 
-![Project Preview](assets/images/preview.png)
+![Project Preview](assets/images/preview.gif)
 
 A premium, responsive catering website built entirely with AI for a **real-world business**.
 
